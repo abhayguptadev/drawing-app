@@ -1,17 +1,36 @@
-# drawing
+# 🎨 Drawing App
 
-A new Flutter project.
+A simple and smooth drawing app built with Flutter. Create sketches using multiple colors, adjustable brush sizes, and glow effects.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- Smooth drawing canvas
+- Multiple brush colors
+- Adjustable brush sizes
+- Glow effect
+- Clear canvas
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Screenshots
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+| Home                    |
+|-------------------------|
+| ![Home](assets/img.png) |
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Built With
+
+- Flutter
+- Dart
+- CustomPaint
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/abhayguptadev/drawing-app.git
+cd Drawing-App
+flutter pub get
+flutter run
+```
+
+## 📄 License
+
+This project is licensed under the MIT License.
